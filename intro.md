@@ -10,7 +10,7 @@
 - Troubleshoot and resolve issues with faulty manifests.
 
 ## Introduction
-
+awdawd
 In this exercise, you will be diving deeper into the management of applications using ArgoCD. 
 
 ## Exercise
